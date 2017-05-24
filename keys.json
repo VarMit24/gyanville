@@ -1,0 +1,7 @@
+{
+  "mongoHost": "ds147421.mlab.com",
+  "mongoPort": "47421",
+  "mongoDatabase": "gyanville",
+  "mongoUser": "root",
+  "mongoPass": "root123"
+}
