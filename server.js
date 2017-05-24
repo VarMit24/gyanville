@@ -62,7 +62,7 @@ app.use(bodyParser.json());
 //REST API
 app.use('/api', apiRoutes);
 
-app.listen(process.env.PORT || 3000, () => {
+app.listen(process.env.PORT || 8080, () => {
     console.log('started web process');
 });
 // mongodb.MongoClient.connect(uri, (err, db) => {
